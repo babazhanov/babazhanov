@@ -1,16 +1,27 @@
-### Hi there 👋
+<div id="header" align="center">
+    <h1>Hi there, I'm  Ruslan </h1>
+    <h3>Flutter Software Engineer from Russia</h3>
+</div>
 
-<!--
-**babazhanov/babazhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="socials" align="center">
+    <a href="https://www.linkedin.com/in/ruslan-babazhanov/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/babazhanovrt">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+### About me
+- 🌱 I’m currently learning *English*
+- 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/ruslan-babazhanov/), [email](mailto:babazhanov@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Languages and tools
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-original.svg" title="flutter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dart/dart-original.svg" title="flutter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/android/android-original.svg" title="flutter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg" title="flutter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/opencv/opencv-original.svg" title="flutter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/opengl/opengl-original.svg" title="flutter" width="40" height="40"/>&nbsp;
