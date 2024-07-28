@@ -13,15 +13,15 @@
 </div>
 
 ### About me
-- 🌱 I’m currently learning *English*
+- 🌱 I am currently developing on *Flutter/Dart*
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/ruslan-babazhanov/), [email](mailto:babazhanov@gmail.com)
 
 ---
 
 ### Languages and tools
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-original.svg" title="flutter" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dart/dart-original.svg" title="flutter" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/android/android-original.svg" title="flutter" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg" title="flutter" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/opencv/opencv-original.svg" title="flutter" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/opengl/opengl-original.svg" title="flutter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-original.svg" title="Flutter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dart/dart-original.svg" title="Dart" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/android/android-original.svg" title="Android" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg" title="Kotlin" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/opencv/opencv-original.svg" title="OpenCV" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/opengl/opengl-original.svg" title="OpenGL" width="40" height="40"/>&nbsp;
